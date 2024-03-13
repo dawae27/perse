@@ -1,0 +1,14 @@
+# PCTC 2023-24
+num = int(input())
+alpha = input()
+
+if alpha == "A":
+  num += 1
+elif alpha == "B":
+  num * 2
+elif alpha == "C":
+  num ** 2
+else:
+  print ("error")
+
+print(num)
