@@ -1,0 +1,5 @@
+type1 = input()
+type2 = input() 
+type3 = input()
+result = type3 + " " + type2 + " " + type1
+print(result)
